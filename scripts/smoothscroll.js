@@ -160,3 +160,5 @@ if (!window['jQuery']) alert('The jQuery library must be included before the smo
 jQuery(function ($) {
     $.localScroll({filter: '.smoothScroll'});
 });
+
+
